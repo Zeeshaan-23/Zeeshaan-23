@@ -83,9 +83,9 @@ const zeeshaan = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zeeshaan-23&show_icons=true&theme=dark&hide_border=true&bg_color=0D0A06&title_color=C8A96E&icon_color=8B6914&text_color=C8A96E&border_color=8B6914" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Zeeshaan-23&show_icons=true&theme=dark&hide_border=true&bg_color=0D0A06&title_color=C8A96E&icon_color=8B6914&text_color=C8A96E&border_color=8B6914" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshaan-23&layout=compact&theme=dark&hide_border=true&bg_color=0D0A06&title_color=C8A96E&text_color=C8A96E" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshaan-23&layout=compact&theme=dark&hide_border=true&bg_color=0D0A06&title_color=C8A96E&text_color=C8A96E" /> -->
 
 <br/><br/>
 
