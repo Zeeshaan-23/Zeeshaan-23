@@ -191,7 +191,7 @@ const zeeshaan = {
 
 *Open to internships, collaborations & good conversations about software.*
 
-**📬 [LinkedIn](https://www.linkedin.com/in/zeeshaan-suhail) &nbsp;·&nbsp; [Email](mailto:zeeshaansuhail23@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Zeeshaan-23)**
+**📬 [LinkedIn](https://www.linkedin.com/in/zeeshaan-suhail) &nbsp;·&nbsp; [Email](mailto:zeeshaansuhail23@gmail.com)**
 
 <br/>
 
