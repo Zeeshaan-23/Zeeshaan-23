@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A06,50:2C1A08,100:1A1006&height=200&section=header&text=Shaik%20Zeeshaan%20Suhail&fontSize=46&fontColor=C8A96E&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descSize=15&descColor=8B6914" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1200&color=C8A96E&center=true&vCenter=true&repeat=true&width=680&lines=const+zeeshaan+%3D+new+Engineer('Full+Stack');+%E2%9C%A8;zeeshaan.build('Production+E-Signature+Platform');+%F0%9F%96%8A%EF%B8%8F;zeeshaan.explore('Cybersecurity+%26+Cloud');+%F0%9F%94%90;zeeshaan.status+%3D+'Open+to+Internships';+%F0%9F%A4%9D" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1200&color=C8A96E&center=true&vCenter=true&repeat=true&width=680&lines=const+zeeshaan+%3D+new+Engineer('Full+Stack');+%E2%9C%A8;zeeshaan.build('Production+E-Signature+Platform');+%F0%9F%96%8A%EF%B8%8F;zeeshaan.explore('Cybersecurity+%26+Cloud');+%F0%9F%94%90;zeeshaan.status+%3D+'Open+to+Internships';+%F0%9F%A4%9D" alt="Typing SVG" /> -->
 
 <br/>
 
