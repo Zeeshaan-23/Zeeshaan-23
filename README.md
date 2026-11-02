@@ -44,7 +44,7 @@ const zeeshaan = {
 
 ---
 
-## 🔭 Featured Works
+## Featured Works
 
 | &nbsp; | Project | Description | Stack |
 |---|---|---|---|
@@ -54,7 +54,7 @@ const zeeshaan = {
 
 ---
 
-## 🧬 Tech DNA
+## Tech Stack
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -75,7 +75,7 @@ const zeeshaan = {
 
 ---
 
-## 📊 GitHub Chronicles
+## GitHub Stats
 
 <div align="center">
 
@@ -95,20 +95,12 @@ const zeeshaan = {
 
 ---
 
-## 🎏 The Koi
+## The Commit Koi
 
 <div align="center">
   <img src="koi/koi.gif" width="256" alt="Zeeshaan's koi" />
   <br/>
   <sub>Redrawn every night from my public GitHub activity</sub>
-</div>
-
----
-
-## 💬 A Thought
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ---
