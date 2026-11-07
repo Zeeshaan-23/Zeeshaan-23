@@ -29,22 +29,26 @@ I've built projects like CrawlSync, a web crawling project, and esign-platform, 
 
 ## Things I've built
 
-| Project | What it is | Built with |
-|---|---|---|
-| [**esign-platform**](https://github.com/Zeeshaan-23/esign-platform) | E-signature MVP with JWT auth, Celery-backed workflows, PDF generation and full audit trails | Django, DRF, React, PostgreSQL, Redis |
-| [**UniMeet**](https://github.com/Zeeshaan-23/UniMeet) | Campus collaboration and event management platform, built with a team | MongoDB, Express, React, Node.js |
-| [**DBMS-Hospital-Management**](https://github.com/Zeeshaan-23/DBMS-Hospital-Management) | Relational database design for hospital operations, patients and staff records | SQL, ER design |
+| Project                  | Description                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| [CrawlSync](https://github.com/Zeeshaan-23/CrawlSync) | Web crawler project.                                                                                       |
+| [esign-platform](https://github.com/Zeeshaan-23/esign-platform) | E-signature application featuring JWT authentication, Celery-backed workflows, PDF generation and audit trails. |
+| [UniMeet](https://github.com/Zeeshaan-23/UniMeet) | Campus collaboration and event management platform.                                                              |
+| [DBMS-Hospital-Management](https://github.com/Zeeshaan-23/DBMS-Hospital-Management) | Relational database design for hospital operations. |
 
 ---
 
 ## What I work with
 
-**Languages** Python, JavaScript, TypeScript, SQL, C
-**Backend** Django, DRF, Node.js, Express, Celery
-**Frontend** React, Vite, Tailwind CSS
-**Data** PostgreSQL, MongoDB, Redis, MySQL
-**Security** JWT, CSP, rate limiting, httpOnly cookies
-**Tools** Git, Docker, Postman
+## Technical Skills
+
+- **Languages:** Python, Go, JavaScript, TypeScript, Java, SQL, C
+- **Backend & Full Stack:** Django, Django REST Framework, Node.js, Express.js, React, Vite
+- **Databases & Infrastructure:** PostgreSQL, MongoDB, Redis, MySQL, Docker
+- **Cybersecurity:** Authentication, JWT, Session Management, Content Security Policy (CSP), Rate Limiting, Secure Application Development
+- **Machine Learning:** Regression, Classification, Clustering, Decision Trees, Feature Selection, ML Fundamentals
+- **LLMs & AI:** Tokenization, LLM Fundamentals, Transformer Architecture, AI-powered Applications
+- **Developer Tools:** Git, GitHub, Postman
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,nodejs,postgres,mongodb,redis,docker,git,tailwind&perline=12" alt="Tech stack icons" />
