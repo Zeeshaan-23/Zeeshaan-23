@@ -5,7 +5,10 @@
     <td valign="middle" align="left">
       <h1>Shaik Zeeshaan Suhail</h1>
       <p>
-        Computer science student in India passionate about software engineering, cybersecurity, and artificial intelligence. I build full-stack applications, primarily using Python, Django, and React, with an interest in backend architecture, application security, and building reliable systems.
+Computer Science student passionate about software engineering, cybersecurity, and artificial intelligence.
+      </p>
+      <p>
+        I build full-stack applications, primarily using Python, Django, and React, with a strong interest in backend architecture, application security, and building reliable systems.
       </p>
       <p>
 I've built projects like CrawlSync, a web crawling project, and esign-platform, an e-signature application. Alongside software development, I'm exploring machine learning and large language models, learning concepts like tokenization, model architectures, and AI-powered applications through hands-on experimentation.
@@ -24,10 +27,6 @@ I've built projects like CrawlSync, a web crawling project, and esign-platform, 
 </table>
 
 </div>
-<div align="center">
-  <img src="info-card.svg" width="560" alt="Zeeshaan's developer information card" />
-</div>
-
 <br />
 
 <div align="center">
