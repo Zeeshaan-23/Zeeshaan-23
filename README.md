@@ -24,6 +24,17 @@ I've built projects like CrawlSync, a web crawling project, and esign-platform, 
 </table>
 
 </div>
+<div align="center">
+  <img src="info-card.svg" width="560" alt="Zeeshaan's developer information card" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
+</div>
+
+<br />
 
 ---
 
