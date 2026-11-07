@@ -5,14 +5,10 @@
     <td valign="middle" align="left">
       <h1>Shaik Zeeshaan Suhail</h1>
       <p>
-        Computer science student in India. I build backend-heavy full stack apps,
-        mostly Django and React, and I like the security side of them: auth,
-        sessions, rate limiting, audit trails.
+        Computer science student in India passionate about software engineering, cybersecurity, and artificial intelligence. I build full-stack applications, primarily using Python, Django, and React, with an interest in backend architecture, application security, and building reliable systems.
       </p>
       <p>
-        Right now I'm building <a href="https://github.com/Zeeshaan-23/esign-platform">esign-platform</a>,
-        an e-signature app, and learning cloud architecture and system design.
-        I'm looking for internships in software engineering, cloud and security.
+I've built projects like CrawlSync, a web crawling project, and esign-platform, an e-signature application. Alongside software development, I'm exploring machine learning and large language models, learning concepts like tokenization, model architectures, and AI-powered applications through hands-on experimentation.
       </p>
       <p>
         <a href="https://www.linkedin.com/in/zeeshaan-suhail"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
